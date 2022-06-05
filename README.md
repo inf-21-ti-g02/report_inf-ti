@@ -8,7 +8,6 @@ An example report using markdown on Github. This documentation is writen using [
 
 ## Repository organization
 
-_Please help reader navigate around describing how the repository is organized by providing links_
 * **Source code** is in the [src folder](src/).
 * Report chapters are in [doc folder](doc/).
 
@@ -19,23 +18,10 @@ A [table](https://www.markdownguide.org/extended-syntax/#tables) may be usefull 
 
 ## Technologies
 
-_Indicate the technologies you have used in this assignment. Please provide links for the user to read more about those technologies._
 * XML
 * HTML5 + CSS3
 * Javascript
-* PHP
-* nodeJS
-* _Any other?_
 
-### Frameworks and Libraries
-
-_Did you use any aditional libraries? Describe them here._
-* Docker
-* Multipass
-* NodeJS
-* JQuery
-* Laravel
-* Bootstrap
 
 ## Report
 _Please add at least on section (a file) per Chapter. But you can add more._
