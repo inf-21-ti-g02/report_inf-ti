@@ -148,7 +148,7 @@ footer a:hover{
   margin-top: 40px;
   border-color:black;
   border-width:thin;
-  border-style:dashed;
+  border-style:solid;
   width: 60%;
 }
 
