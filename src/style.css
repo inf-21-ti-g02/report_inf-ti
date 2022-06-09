@@ -1,0 +1,223 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap");
+
+
+/* BODY */
+body {
+  margin: 0 auto;
+  max-width: 95%;
+  padding: 1em 0;
+  background: #6d6868;
+  font-family: "Montserrat", sans-serif; 
+}
+
+
+
+/* HEADER */
+header{
+  padding-bottom: 0.5%;
+  height: 40px;
+  width: auto;
+  text-align: center;
+  max-width: 100%;
+  position: sticky; 
+  top: 0;
+  background-color: #6d6868;
+  
+}
+
+/* MENU NAV */
+
+header.navMenu {
+  position:absolute;
+  left: 50%;
+  width: 100px;
+  height: 100px;
+  color: aqua;
+}
+
+.navMenu a {
+  color: #f6f4e6;
+  text-decoration: none;
+  text-transform: uppercase;
+  display: inline-block;
+  padding-left: 7px;
+  padding-right: 7px;
+  text-align: center;
+  font-size: clamp(0.6em, 0.5em + 0.9vw ,1.4em);
+  text-shadow: 1px 1px #000000ba;
+}
+
+.navMenu a:hover {
+  color: #3c3b3b;
+  
+}
+
+
+/* FOOTER */
+
+footer{
+  padding-top: 60px;
+  height: 100px;
+  width: auto;
+  text-align: center;
+  font-size: clamp(0.4em, 0.3em + 0.7vw ,1.2em);
+}
+
+footer a:link, a:visited{
+  text-decoration: none;
+  color: #f6f4e6;
+}
+
+footer a:hover{
+  text-decoration: none;
+  color: #3c3b3b;
+}
+
+
+
+
+
+/* GRELHA INDEX*/
+
+#main {
+  flex: 50%;
+  text-align: center; 
+}
+
+#main img{
+  width:95%
+}
+
+#row {
+  display: flex;
+  vertical-align: middle; 
+  width: 93%; 
+  margin-left: 4%;
+  margin-top: 1.5%;
+}
+#row img{
+  width: 100%; 
+}
+
+
+#row a:visited{
+  text-decoration: none;
+  color: #2d2d2d;
+  font-size: clamp(0.4em, 0.3em + 0.9vw ,1.4em);
+}
+
+#row a:link{
+  text-decoration: none;
+  color: #2d2d2d;
+  font-size: clamp(0.4em, 0.3em + 0.9vw ,1.4em);
+
+}
+
+#row a:hover{
+  text-decoration: none;
+  color: #f6f4e6;
+  font-size: clamp(0.4em, 0.3em + 0.9vw ,1.4em);
+}
+
+
+.coluna {
+  flex: 40%;
+  padding-top: 25px;
+
+}
+
+.coluna2 {
+  flex: 40%;
+  padding-top: 25px;
+  display:         flex;
+  display: -webkit-flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+/* TABELAS */
+
+#tabelaPrecos {
+  display: flex;
+  justify-content: center;
+}
+
+#primeira {
+  margin-top: 40px;
+  border-color:black;
+  border-width:thin;
+  border-style:dashed;
+  width: 60%;
+}
+
+th{
+  text-align: left;
+  background-color:#f6f4e6;
+  width: 30%; 
+}
+
+td{
+  color:#f6f4e6;
+  width: 70%;
+  font-size: clamp(0.4em, 0.5em  + 0.7vw  ,1.3em);
+}
+
+tfoot td{
+  text-align:center;
+}
+
+td a:link, a:visited{
+  text-decoration: none;
+  color: #f6f4e6;
+}
+
+td a:hover{
+  text-decoration: none;
+  color: #3c3b3b;
+}
+
+
+
+/*BASE*/
+
+h1{
+  font-family: "Montserrat", sans-serif; 
+  color: #d76655;
+  text-align: center;
+  font-size: clamp(1.3em, 1.3em + 1.8vw ,2.3em);
+  font-weight: normal;
+  text-shadow: 1px 1px #000000ba;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif; 
+  color: #f6f4e6;
+  text-align: center;
+  font-size: clamp(0.7em, 0.8em + 1.3vw ,1.8em);
+  font-weight: normal;
+  text-shadow: 1px 1px #000000ba;
+  
+}
+
+h3{
+  text-align: justify;
+  vertical-align: middle;
+  font-weight: normal;
+  font-size: clamp(0.5em, 0.5em + 1vw ,1.5em);
+  font-family: "Montserrat", sans-serif; 
+  color: #2d2d2d;
+}
+
+section{
+  margin-top:50px 
+}
+  
+
+#simbolo {
+  display: inline;
+  color: #d76655;
+  font-size: larger;
+  text-shadow: 1px 1px #000000ba;
+}
