@@ -290,3 +290,74 @@ div.nome {
   display: table;
   clear: both;
 }
+
+
+
+
+
+/* FORMULARIO */
+
+.formulario{
+  width: 35%;
+  padding: 2%;
+  border:1px solid #ccc;
+  display: inline-block;
+  margin-left: 5%;
+  margin-right: 10%;
+}
+
+.field{
+  vertical-align: middle;
+  font-weight: normal;
+  font-size: clamp(0.5em, 0.5em + 1vw ,1.5em);
+  font-family: "Montserrat", sans-serif; 
+  color: #2d2d2d;
+  text-align: center;
+}
+
+input[type=text],
+input[type=email],
+textarea{
+  width: 100%;
+  height: 30px;
+  line-height: 30px;
+  border-radius: 15px;
+  border: 1px solid #ccc;
+  outline: none;
+}
+input#nao{
+  margin-left: 30px;
+}
+textarea{
+  line-height: 40px;
+  height: 90px;
+  resize: none;
+}
+input[type=submit]{
+  display: block;
+  background-color: #ccc;
+  height: 35px;
+  border: none;
+  outline: 0;
+  cursor: pointer;
+  width: 100px;
+  margin: 0 auto;
+  text-align: center;
+  border-radius: 15px;
+}
+
+div.about {
+  width: 35%;
+  vertical-align:top;
+  
+  border:1px solid #ccc;
+  display: inline-block;
+  margin-right: 5%;
+  padding: 1%;
+}
+
+div.about img{
+  width:82%;
+  padding-left: 9%;
+  padding-right: 9%;
+}
