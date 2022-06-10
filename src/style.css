@@ -22,6 +22,7 @@ header{
   position: sticky; 
   top: 0;
   background-color: #6d6868;
+ 
   
 }
 
@@ -43,7 +44,7 @@ header.navMenu {
   padding-left: 7px;
   padding-right: 7px;
   text-align: center;
-  font-size: clamp(0.6em, 0.5em + 0.9vw ,1.4em);
+  font-size: clamp(0.6em, 0.4em + 0.8vw ,1.4em);
   text-shadow: 1px 1px #000000ba;
 }
 
@@ -202,12 +203,15 @@ h2 {
 }
 
 h3{
-  text-align: justify;
+  
   vertical-align: middle;
   font-weight: normal;
   font-size: clamp(0.5em, 0.5em + 1vw ,1.5em);
   font-family: "Montserrat", sans-serif; 
   color: #2d2d2d;
+  text-align: center;
+  padding-left: 6%;
+  padding-right: 6%;
 }
 
 section{
@@ -220,4 +224,69 @@ section{
   color: #d76655;
   font-size: larger;
   text-shadow: 1px 1px #000000ba;
+}
+
+
+
+
+
+
+
+
+/*GALERIA IMAGENS*/
+
+div.gallery {
+  border: 1px solid #ccc;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+  box-sizing: border-box;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+  color: #2d2d2d;
+  font-family: "Montserrat", sans-serif;
+  
+}
+
+div.nome {
+  padding: 15px;
+  text-align: center;
+  color: #f6f4e6;
+  font-family: "Montserrat", sans-serif; 
+}
+
+
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 24.99%;
+  box-sizing: border-box;
+}
+
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
 }
