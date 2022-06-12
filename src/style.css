@@ -6,10 +6,10 @@ body {
   margin: 0 auto;
   max-width: 95%;
   padding: 1em 0;
-  background: #6d6868;
+  /*background: #6d6868c7;*/
   font-family: "Montserrat", sans-serif; 
+  background-image: linear-gradient(60deg, #adadadc6 0%, #5d5a5ac7 100%);
 }
-
 
 
 /* HEADER */
@@ -21,9 +21,7 @@ header{
   max-width: 100%;
   position: sticky; 
   top: 0;
-  background-color: #6d6868;
- 
-  
+  background-image: linear-gradient(180deg, #adadad 0%, #5d5a5a 100%);
 }
 
 /* MENU NAV */
@@ -33,7 +31,7 @@ header.navMenu {
   left: 50%;
   width: 100px;
   height: 100px;
-  color: aqua;
+ 
 }
 
 .navMenu a {
@@ -300,7 +298,7 @@ div.nome {
 .formulario{
   width: 35%;
   padding: 2%;
-  border:1px solid #ccc;
+  border:2px solid rgb(111, 108, 108);
   display: inline-block;
   margin-left: 5%;
   margin-right: 10%;
@@ -350,7 +348,7 @@ div.about {
   width: 35%;
   vertical-align:top;
   
-  border:1px solid #ccc;
+  border:2px solid #ccc;
   display: inline-block;
   margin-right: 5%;
   padding: 1%;
@@ -360,4 +358,18 @@ div.about img{
   width:82%;
   padding-left: 9%;
   padding-right: 9%;
+}
+
+
+ul {
+  list-style-type: "🏛";
+}
+
+li {
+  padding-left: .8em;
+}
+
+div.listaRoteiro{
+  margin: auto;
+  width:fit-content;
 }
