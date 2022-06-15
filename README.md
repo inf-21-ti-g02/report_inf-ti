@@ -1,6 +1,6 @@
 # Porto Belo (Beautiful Oporto)
 
-Repository to host the project developed for Internet Technologies, a fisrt year subject at Universidade da Maia. Developed by Group : [@DiogoGomes](https://github.com/diogogomes-pt) and Tiago Praça Pereira [@TiagoPereira](https://github.com/diogogomes-pt).
+Repository to host the project developed for Internet Technologies, a fisrt year subject at Universidade da Maia. Developed by Group : [@DiogoGomes](https://github.com/diogogomes-pt), Tiago Praça Pereira [@TiagoPereira](https://github.com/tiagopraca) and Pedro Tomás Coutinho Có [@PedroCoutinho](https://github.com/diogogomes-pt)
 
 ## Short theme description
 
@@ -37,4 +37,5 @@ _Please add at least on section (a file) per Chapter. But you can add more._
 
 ## Team
 * Diogo Gomes Araújo [@DiogoGomes](https://github.com/diogogomes-pt)
-* Tiago Praça Pereira [@TiagoPereira](https://github.com/diogogomes-pt)
+* Tiago Praça Pereira [@TiagoPereira](https://github.com/tiagopraca)
+* Pedro Tomás Coutinho Có [@PedroCoutinho](https://github.com/diogogomes-pt)
