@@ -14,7 +14,10 @@ An example report using markdown on Github. This documentation is writen using [
 ## Gallery 1
 
 _Please provide a galery of the final result, with small images_
-A [table](https://www.markdownguide.org/extended-syntax/#tables) may be usefull to organize the images.
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
 ## Technologies
 
