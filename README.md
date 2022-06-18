@@ -14,10 +14,19 @@ An example report using markdown on Github. This documentation is writen using [
 ## Gallery 1
 
 _Please provide a galery of the final result, with small images_
-| Syntax      | Description |
+| Syntax      | Imagem |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Página Ínicial      | ![Drag Racing](./doc/images/1.png)       |
+| Elementos da Página Ínicial   | ![Drag Racing](./doc/images/1(2).png)       |
+| Monumentos  | ![Drag Racing](./doc/images/2.png)       |
+| Gastronomia      | ![Drag Racing](./doc/images/3.png)       |
+| Roteiro   | ![Drag Racing](./doc/images/4.png)       |
+| Sobre      | ![Drag Racing](./doc/images/5.png)       |
+| Página Ínicial Formato Móvel   | ![Drag Racing](./doc/images/1resp.png)       |
+| Monumentos Formato Móvel      | ![Drag Racing](./doc/images/2resp.png)       |
+| Gastronomia Formato Móvel   | ![Drag Racing](./doc/images/3resp.png)       |
+| Sobre Formato Móvel   | ![Drag Racing](./doc/images/5resp.png)       |
+
 
 ## Technologies
 
