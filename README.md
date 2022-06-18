@@ -4,7 +4,7 @@ Repository to host the project developed for Internet Technologies, a fisrt year
 
 ## Short theme description
 
-in this project we intend to create a faster and more organized way to make known the different tourist aspects of the city of Oporto. For this we created a website divided into 5 parts, the "Home" where we presented a brief summary of the city. The "Monuments" page where we present some of the city's monuments and a description of them. "Gastronomy" page, a page where we presented the city's gastronomy with some of the typical dishes. On the "Itinerary" page we suggest an itinerary for a day in the city, with prices included. Finally, we have a page "About "where we talked a little about the project and presented a form to receive suggestions.
+In this project we intend to create a faster and more organized way to make known the different tourist aspects of the city of Oporto. For this we created a website divided into 5 parts, the "Home" where we presented a brief summary of the city. The "Monuments" page where we present some of the city's monuments and a description of them. "Gastronomy" page, a page where we presented the city's gastronomy with some of the typical dishes. On the "Itinerary" page we suggest an itinerary for a day in the city, with prices included. Finally, we have a page "About "where we talked a little about the project and presented a form to receive suggestions.
 
 ## Repository organization
 
@@ -37,7 +37,6 @@ _Please provide a galery of the final result, with small images_
 
 
 ## Report
-_Please add at least on section (a file) per Chapter. But you can add more._
 
 ### Project presentation
 * Chapter 1: [Project presentation](doc/c1.md)
