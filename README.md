@@ -14,7 +14,6 @@ In this project we intend to create a faster and more organized way to make know
 
 ## Gallery 1
 
-_Please provide a galery of the final result, with small images_
 | Página      | Imagem |
 | ----------- | ----------- |
 | Página Ínicial      | ![Drag Racing](./doc/images/1.png)       |
