@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="https://inf-21-ti-g02.netlify.app/"
+    xmlns:tns="https://inf-21-ti-g02.netlify.app/" elementFormDefault="qualified">
+    <element name="porto">
+        <complexType>
+            <sequence>
+                <element name="monumento" maxOccurs="unbounded">
+                    <complexType>
+                        <sequence>
+                            <element name="name" type="string" />
+                            <element name="image" type="string" />
+                            <element name="description" type="string" />
+                        </sequence>
+                    </complexType>
+                </element>
+                <element name="gastronomia" maxOccurs="unbounded">
+                    <complexType>
+                        <sequence>
+                            <element name="name" type="string" />
+                            <element name="image" type="string" />
+                            <element name="description" type="string" />
+                        </sequence>
+                    </complexType>
+                </element>
+            </sequence>
+        </complexType>
+    </element>
+</schema>

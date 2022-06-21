@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<porto xmlns ="https://inf-21-ti-g02.netlify.app/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://inf-21-ti-g02.netlify.app/ porto.xsd">
+      <monumento>
+          <name>Torre dos Clérigos</name>
+          <image>images/monumentos/clerigos.png</image>
+          <description>Localiza-se no topo da Rua dos Clérigos. Integra três elementos principais: a Igreja dos Clérigos, a Torre dos Clérigos e a Casa da Irmandade, que liga a igreja e a torre e em tempos acolheu os outros serviços da Irmandade dos Clérigos. Projetado pelo arquiteto Nicolau Nasoni, este conjunto é um dos mais notáveis exemplos do estilo tardo-barroco em território português.</description>
+      </monumento>
+      <monumento>
+          <name>Estação de S.Bento</name>
+          <image>images/monumentos/sbento.png</image>
+          <description>Situada na Praça de Almeida Garrett, no Centro Histórico do Porto, a estação é célebre pelos seus painéis de azulejo. O edifício, de influência francesa, é obra do arquitecto portuense José Marques da Silva. Entrou ao serviço no dia 8 de Novembro de 1896, só tendo sido oficialmente inaugurada em 5 de Outubro de 1916.</description> 
+      </monumento>
+      <monumento>
+          <name>Jardins do Palácio de Cristal</name>
+          <image>images/monumentos/palacioCristal.png</image>
+          <description>Estes jardins românticos foram projectados na década de 1860 pelo paisagista alemão Émile David, para envolver o então Palácio de Cristal, substituído pelo Pavilhão Rosa Mota na década de 1950. Incluem o chamado Jardim Emílio David que possui belos exemplares de rododendros, camélias, araucárias, ginkgos, para além de fontes e estátuas alegóricas às estações do ano.</description>
+      </monumento>
+      <monumento>
+          <name>Mercado do Bolhão.</name>
+          <image>images/monumentos/bolhao.png</image>
+          <description>A sua construção caracteriza-se pela sua monumentalidade, própria da arquitectura neoclássica. Os vendedores no mercado distribuem-se por dois pisos. O Mercado do Bolhão é vocacionado sobretudo para produtos frescos, sobretudo alimentares. Os vendedores no mercado distribuem-se por dois pisos e diferentes secções especializadas, desde: zona de peixarias, talhos, hortícolas e florais...</description>
+      </monumento>
+
+      <gastronomia>
+        <name>Francesinha</name>
+        <image>images/gastronomia/francesinha.jpeg</image>
+        <description>A francesinha é uam sanduiche constituída habitualmente por linguiça, salsicha fresca, fiambre, carnes frias e bife, coberta com queijo posteriormente derretido.</description>
+      </gastronomia>
+
+      <gastronomia>
+        <name>Tripas à Moda do Porto</name>
+        <image>images/gastronomia/tripasporto.jpeg</image>
+        <description>Segundo uma lenda, remonta ao período dos Descobrimentos portugueses. É confecionado com vários tipos de carne, tripas, enchidos e feijão branco.</description>
+      </gastronomia>
+
+      <gastronomia>
+        <name>Bifanas à Moda do Porto</name>
+        <image>images/monumentos/bifanas.jpeg</image>
+        <description>É uma receita muito básica onde um bife, cortado finamente, é cosido num molho à base de manteiga, de seguida é colocado no meio do pão.</description>
+      </gastronomia>
+
+      <gastronomia>
+        <name>Arroz de Sarrabulho</name>
+        <image>images/monumentos/sarrabulho.jpeg</image>
+        <description>É confeccionado com diversos tipos de carne, sangue de porco e especiarias. É servido com carnes desfiadas e ainda com o molho da cozedura.</description>
+      </gastronomia>
+
+      <gastronomia>
+        <name>Rojões</name>
+        <image>images/monumentos/rojoes.jpeg</image>
+        <description>É um prato de carne de porco aos pedaços, sem osso, chouriças de sangue, tripas enfarinhadas e sangue do porco cozido, cortado em tiras fininhas.</description>
+      </gastronomia>
+
+      <gastronomia>
+        <name>Feijoada à Transmontana</name>
+        <image>images/monumentos/transmontana.jpeg</image>
+        <description>Cozinha-se com feijão encarnado, carnes e como não podia faltar, os enchidos e as couves. Acompanha-se com arroz branco ou arroz de forno.</description>
+      </gastronomia>
+
+      <gastronomia>
+        <name>Enchidos</name>
+        <image>images/monumentos/enchidos.jpeg</image>
+        <description>No Porto existem imensos enchidos e são considerados como típicos. Por norma são de carne de porco defumadas com ou sem processamento antes.</description>
+      </gastronomia>
+
+      <gastronomia>
+        <name>Arroz de Lampreia</name>
+        <image>images/monumentos/lmapreia.jpeg</image>
+        <description>É um arroz confecionado com o acompanhamento de um peixe, a lampreia. Este é um prato um pouco exótico que pode não agradar a todos.</description>
+      </gastronomia>
+
+
+    
+    </porto>
