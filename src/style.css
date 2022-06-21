@@ -4,11 +4,8 @@
 /* BODY */
 body {
   margin: 0 auto;
-  max-width: 95%;
-  padding: 1em 0;
-  /*background: #6d6868c7;*/
+  max-width: 100%;
   font-family: "Montserrat", sans-serif; 
-  background-image: linear-gradient(60deg, #adadadc6 0%, #5d5a5ac7 100%);
 }
 
 
@@ -21,7 +18,7 @@ header{
   max-width: 100%;
   position: sticky; 
   top: 0;
-  background-image: linear-gradient(180deg, #adadad 0%, #5d5a5a 100%);
+  background-image: linear-gradient(90deg, #adadad 0%, #8b8585 100%);
 }
 
 /* MENU NAV */
@@ -48,18 +45,18 @@ header.navMenu {
 
 .navMenu a:hover {
   color: #3c3b3b;
-  
 }
 
 
 /* FOOTER */
 
 footer{
-  padding-top: 60px;
-  height: 100px;
+  padding-top: 35px;
+  height:fit-content;
   width: auto;
   text-align: center;
   font-size: clamp(0.4em, 0.3em + 0.7vw ,1.2em);
+  background-image: linear-gradient(90deg, #adadad 0%, #8b8585 100%);
 }
 
 footer a:link, a:visited{
@@ -153,12 +150,12 @@ footer a:hover{
 
 th{
   text-align: left;
-  background-color:#f6f4e6;
+  background-color:#8f8d8d;
   width: 30%; 
 }
 
 td{
-  color:#f6f4e6;
+  color:#2d2d2d;
   width: 70%;
   font-size: clamp(0.4em, 0.5em  + 0.7vw  ,1.3em);
 }
@@ -167,9 +164,14 @@ tfoot td{
   text-align:center;
 }
 
-td a:link, a:visited{
+td a:link {
   text-decoration: none;
-  color: #f6f4e6;
+  color: #d76655;
+}
+
+td a:visited{
+  text-decoration: none;
+  color: #d76655;
 }
 
 td a:hover{
@@ -183,7 +185,7 @@ td a:hover{
 
 h1{
   font-family: "Montserrat", sans-serif; 
-  color: #d76655;
+  color: #8f8d8d;
   text-align: center;
   font-size: clamp(1.3em, 1.3em + 1.8vw ,2.3em);
   font-weight: normal;
@@ -192,7 +194,7 @@ h1{
 
 h2 {
   font-family: "Montserrat", sans-serif; 
-  color: #f6f4e6;
+  color: #d76655;
   text-align: center;
   font-size: clamp(0.7em, 0.8em + 1.3vw ,1.8em);
   font-weight: normal;
@@ -258,7 +260,7 @@ div.desc {
 div.nome {
   padding: 15px;
   text-align: center;
-  color: #f6f4e6;
+  color: #d76655;
   font-family: "Montserrat", sans-serif; 
 }
 
@@ -360,7 +362,6 @@ div.about img{
   padding-right: 9%;
 }
 
-
 ul {
   list-style-type: "🏛";
 }
@@ -372,4 +373,30 @@ li {
 div.listaRoteiro{
   margin: auto;
   width:fit-content;
+}
+
+
+
+#footer{
+  
+}
+
+
+#social-icon {
+	display: flex;
+  align-content: center;
+}
+#social-item {
+	height: 30px;
+	width: 50px;
+	margin: 0 5px;
+  width: 33%;
+}
+#social-item img {
+	height: 35px;
+	width:35px;
+  
+}
+#social-item:hover img {
+	filter: grayscale(0);
 }
