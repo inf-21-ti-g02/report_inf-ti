@@ -24,6 +24,5 @@
                 </element>
             </sequence>
         </complexType>
-    </element>
-    
+    </element>    
 </schema>
