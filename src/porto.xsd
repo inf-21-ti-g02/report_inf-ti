@@ -3,8 +3,7 @@
     xmlns:tns="https://inf-21-ti-g02.netlify.app/" elementFormDefault="qualified">
     <element name="porto">
         <complexType>
-            <sequence>
-                
+            <sequence>                
                 <element name="monumento" maxOccurs="unbounded">
                     <complexType>
                         <sequence>
