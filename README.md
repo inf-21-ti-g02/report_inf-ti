@@ -50,4 +50,4 @@ In this project we intend to create a faster and more organized way to make know
 ## Team
 * Diogo Gomes Araújo [@DiogoGomes](https://github.com/diogogomes-pt)
 * Tiago Praça Pereira [@TiagoPereira](https://github.com/tiagopraca)
-* Pedro Tomás Coutinho Có [@PedroCoutinho](https://github.com/diogogomes-pt)
+* Pedro Tomás Coutinho Có [@PedroCó](https://github.com/YounC0)
